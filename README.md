@@ -59,6 +59,7 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 TODO
+```
 
 ## Acknowledgements
 This project is developed based on ACSSM.
